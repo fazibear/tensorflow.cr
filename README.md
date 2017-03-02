@@ -1,6 +1,6 @@
 # tensorflow.cr
 
-Crytal binding for [TensorFlow](https://github.com/tensorflow/tensorflow).
+Crystal binding for [TensorFlow](https://github.com/tensorflow/tensorflow).
 
 This is an early-stage open-source project. You can call functions from bindings directly, but wrappers are not ready yet.
 
