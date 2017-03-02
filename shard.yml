@@ -1,0 +1,9 @@
+name: tensorflow
+version: 0.1.0
+
+authors:
+  - Michał Kalbarczyk <fazibear@gmail.com>
+
+crystal: 0.20.5
+
+license: MIT
