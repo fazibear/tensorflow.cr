@@ -11,13 +11,7 @@ Quick instructions:
 ```
 $ ./configure
 $ bazel build :libtensorflow.so
-$ cp ./bazel-bin/tensorflow/libtensorflow.so /usr/local/lib/ libtensorflow.so
-```
-
-Optional things for OS X:
-
-```
-$ install_name_tool -id /usr/local/lib/libtensorflow.so /usr/local/lib/libtensorflow.so
+$ cp ../bazel-bin/tensorflow/libtensorflow.so /usr/local/lib/ libtensorflow.so
 ```
 
 ## Installation
