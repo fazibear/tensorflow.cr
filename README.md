@@ -31,6 +31,8 @@ dependencies:
 require "tensorflow"
 ```
 
+See [examples](https://github.com/fazibear/tensorflow.cr_examples) repository.
+
 ## Contributing
 
 1. Fork it ( https://github.com/fazibear/tensorflow/fork )
