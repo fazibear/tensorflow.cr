@@ -10,6 +10,7 @@ Quick instructions:
 
 ```
 $ ./configure
+$ cd tensorflow
 $ bazel build :libtensorflow.so
 $ cp ../bazel-bin/tensorflow/libtensorflow.so /usr/local/lib/ libtensorflow.so
 ```
