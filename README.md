@@ -46,3 +46,7 @@ See [examples](https://github.com/fazibear/tensorflow.cr_examples) repository.
 ## Contributors
 
 - [fazibear](https://github.com/fazibear) Michał Kalbarczyk - creator, maintainer
+
+## Thank you!
+
+[![Become Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=6912974)
